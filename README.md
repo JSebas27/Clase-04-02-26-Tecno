@@ -13,7 +13,7 @@ Comando 4: python to-do-list-app/app.py
 Comando 5: python flask-app/app.py
 7. Ejecutar la aplicacion
 Comando 6: python .\app.py
-8. Abrir URL de la aplicacion y agregarle al link /inicio.
+8. Abrir URL de la aplicacion dando ctrl+clic y agregarle al final del link /inicio.
 
 <img width="1701" height="696" alt="image" src="https://github.com/user-attachments/assets/278fa08b-60fb-4513-8152-7f080d1c7d9d" />
 
