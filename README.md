@@ -16,4 +16,6 @@ Comando 6: python .\app.py
 8. Abrir URL de la aplicacion dando ctrl+clic y agregarle al final del link /inicio.
 
 <img width="1701" height="696" alt="image" src="https://github.com/user-attachments/assets/278fa08b-60fb-4513-8152-7f080d1c7d9d" />
+<img width="858" height="118" alt="image" src="https://github.com/user-attachments/assets/22f25768-c20c-4123-b661-9783d24eab36" />
+
 
