@@ -1,5 +1,5 @@
 # Clase-04-02-26-Tecno
-Instrucciones para ejecutar el codigo:
+## Instrucciones para ejecutar el codigo:
 `### 1.` 1- Clonar el repositorio
 2- Abrir VS Code
 3. Asegurarse de activar entorno virtual:
